@@ -1,0 +1,157 @@
+{
+  "version": "1.0.0",
+  "name": "gren",
+  "assetPath": "characters/gren",
+  "startingAnimation": "idle",
+  "singTime": 6.1,
+  "flipX": false,
+  "isPixel": false,
+  "healthIcon": {
+    "id": "green"
+  },
+  "animations": [
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "frameRate": 24,
+      "offsets": [
+        -42,
+        269
+      ],
+      "looped": false
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "frameRate": 24,
+      "offsets": [
+        -18,
+        243
+      ],
+      "looped": false
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "frameRate": 24,
+      "offsets": [
+        0,
+        265
+      ],
+      "looped": false
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "frameRate": 24,
+      "offsets": [
+        -32,
+        295
+      ],
+      "looped": false
+    },
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "frameIndices": [],
+      "frameRate": 24,
+      "offsets": [
+        -30,
+        250
+      ],
+      "looped": true
+    },
+    {
+      "name": "alt",
+      "prefix": "alt",
+      "frameIndices": [],
+      "frameRate": 24,
+      "offsets": [
+        228,
+        359
+      ],
+      "looped": false
+    }
+  ],
+  "offsets": [
+    0,
+    450
+  ],
+  "cameraOffsets": [
+    50,
+    -70
+  ],
+  "scale": 0.8
+}
